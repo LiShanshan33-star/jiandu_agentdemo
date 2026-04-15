@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "image_name": "6832.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6832.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6832.bmp",
+        "text_content": "守 候 移 三 十 井"
+    },
+    {
+        "id": 2,
+        "image_name": "1495.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1495.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1495.bmp",
+        "text_content": "史 建"
+    },
+    {
+        "id": 3,
+        "image_name": "7719.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7719.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7719.bmp",
+        "text_content": "第 二 十 三 □ 長 況"
+    },
+    {
+        "id": 4,
+        "image_name": "5836.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5836.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5836.bmp",
+        "text_content": "恐 爲 放 所 賊 即 謂 放 曰 卒 黠 靡 刀 □ 視 義 爲 宣 即 起 去 遣"
+    },
+    {
+        "id": 5,
+        "image_name": "4347.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4347.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4347.bmp",
+        "text_content": "任 者 肩 水 始 安 𨼾 長 井 稚 君"
+    },
+    {
+        "id": 6,
+        "image_name": "1353.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1353.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1353.bmp",
+        "text_content": "一 日 二 日 三 日 四 日 五 日 六 日"
+    },
+    {
+        "id": 7,
+        "image_name": "4784.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4784.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4784.bmp",
+        "text_content": "二 里 公 乘"
+    },
+    {
+        "id": 8,
+        "image_name": "6314.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6314.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6314.bmp",
+        "text_content": "毋 有 它 叩 頭 因 書 前 所"
+    },
+    {
+        "id": 9,
+        "image_name": "5584.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5584.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5584.bmp",
+        "text_content": "甲 渠 候 官"
+    },
+    {
+        "id": 10,
+        "image_name": "7704.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7704.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7704.bmp",
+        "text_content": "嘉 霸 各 斂 部 吏 錢 遣"
+    },
+    {
+        "id": 11,
+        "image_name": "5159.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5159.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5159.bmp",
+        "text_content": "乙 酉 甲 渠 候 史 年 九 月 晦 日"
+    },
+    {
+        "id": 12,
+        "image_name": "4474.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4474.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4474.bmp",
+        "text_content": "□ □ 官 載 □ 願 □ 之 居 延 视 候 不 肯 □"
+    },
+    {
+        "id": 13,
+        "image_name": "623.bmp",
+        "raw_path": "data/gallery_samples\\raw\\623.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\623.bmp",
+        "text_content": "第 廿 三 𨼾 稟 䖟 矢 銅 鍭 百 完"
+    },
+    {
+        "id": 14,
+        "image_name": "616.bmp",
+        "raw_path": "data/gallery_samples\\raw\\616.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\616.bmp",
+        "text_content": "忠 叩 頭 白 記 丿 謝 亭 中 君 來 人 數 得 戒 効 杜 孟 元 仲 公 坐 前 起 居 平 善 聞 久 闕 不 相 見 □ 侯 司 一 日 所 可 來 記 具 □ □"
+    },
+    {
+        "id": 15,
+        "image_name": "4514.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4514.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4514.bmp",
+        "text_content": "甲 渠 第 十"
+    },
+    {
+        "id": 16,
+        "image_name": "7535.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7535.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7535.bmp",
+        "text_content": "所 服 若 拔 劍 良 即 取 所 □"
+    },
+    {
+        "id": 17,
+        "image_name": "1827.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1827.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1827.bmp",
+        "text_content": "𨼾 空 毋 吏 其 一 所 候 長"
+    },
+    {
+        "id": 18,
+        "image_name": "1617.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1617.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1617.bmp",
+        "text_content": "甲 渠 君 門 下"
+    },
+    {
+        "id": 19,
+        "image_name": "5434.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5434.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5434.bmp",
+        "text_content": "甲 渠 候 官"
+    },
+    {
+        "id": 20,
+        "image_name": "633.bmp",
+        "raw_path": "data/gallery_samples\\raw\\633.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\633.bmp",
+        "text_content": "正 月 乙 巳 府 告 甲 渠 郡 候 遣 𨼾 長"
+    },
+    {
+        "id": 21,
+        "image_name": "4905.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4905.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4905.bmp",
+        "text_content": "印 曰 居 延 都 尉 印 甲 渠 候 官 四 月 丙 子 臨 桐 卒 禹 以 來"
+    },
+    {
+        "id": 22,
+        "image_name": "511.bmp",
+        "raw_path": "data/gallery_samples\\raw\\511.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\511.bmp",
+        "text_content": "謂 弟 十 十 三 鉼 庭 候 長 往 事 載 大 農 茭 部 千 束"
+    },
+    {
+        "id": 23,
+        "image_name": "7326.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7326.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7326.bmp",
+        "text_content": "石 五 斗 今 餘 十 石 五 斗"
+    },
+    {
+        "id": 24,
+        "image_name": "5020.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5020.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5020.bmp",
+        "text_content": "二 年 三 月 己 卯 朔 辛 卯 □ 編 敢 言 之"
+    },
+    {
+        "id": 25,
+        "image_name": "3974.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3974.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3974.bmp",
+        "text_content": "弘 伏 地 再 拜 足 下 善 毋 □"
+    },
+    {
+        "id": 26,
+        "image_name": "7620.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7620.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7620.bmp",
+        "text_content": "狀 辤 皆 曰 名 爵 縣 里 年 姓 官 祿 各 如 律 皆 □"
+    },
+    {
+        "id": 27,
+        "image_name": "4062.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4062.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4062.bmp",
+        "text_content": "董 登 印 甲 渠 候 官 以 亭 行 十 二 月 辛 卯 第 八 卒 長 以 來"
+    },
+    {
+        "id": 28,
+        "image_name": "7320.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7320.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7320.bmp",
+        "text_content": "月 食 九 石 三"
+    },
+    {
+        "id": 29,
+        "image_name": "7625.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7625.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7625.bmp",
+        "text_content": "越 塞 天 田 出 入 以 此 知 而 劾 無 長 吏 使 劾 者 狀 具"
+    },
+    {
+        "id": 30,
+        "image_name": "7007.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7007.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7007.bmp",
+        "text_content": "已 戌 戊 酉 寅 申"
+    },
+    {
+        "id": 31,
+        "image_name": "522.bmp",
+        "raw_path": "data/gallery_samples\\raw\\522.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\522.bmp",
+        "text_content": "發 冢 衣 物 於 都 市 輙 收 沒 入 縣 官 四 時 言 犯 者 名 狀 謹 案 部 吏 毋 犯 者 敢 言 之 書 到 自 今 來 獨 令 縣 官 鑄 作 錢 令 應 法 度 禁 吏 民 毋 得 鑄 作 錢 及 挾 不 行 錢 輙 行 法 諸 販 賣"
+    },
+    {
+        "id": 32,
+        "image_name": "6990.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6990.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6990.bmp",
+        "text_content": "伏 伏 得 及 察"
+    },
+    {
+        "id": 33,
+        "image_name": "4960.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4960.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4960.bmp",
+        "text_content": "臨 木 隧 長 充 國 卒 潘 □ □ 伏 地 再 拜 三 月 丁 卯"
+    },
+    {
+        "id": 34,
+        "image_name": "926.bmp",
+        "raw_path": "data/gallery_samples\\raw\\926.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\926.bmp",
+        "text_content": "甲 渠 鄣 候 以 郵 行 府 告 甲 渠 鄣 候 隧 長 淳 于 爲 自 言 十 一 月 當 乘 隧 願 借 十 一 月 當 償 隧 長 樊 □ 將 軍 令"
+    },
+    {
+        "id": 35,
+        "image_name": "4997.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4997.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4997.bmp",
+        "text_content": "收 虜 □ 長 石 恭 五 月"
+    },
+    {
+        "id": 36,
+        "image_name": "2977.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2977.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2977.bmp",
+        "text_content": "誼 不 留 難 敞 變 事 滿 半 日 時 令 史 根 尉 史 彊 守 塞 尉 萬 侯 長 吕 憲 王 充 徐 弘 候 史 成 遂"
+    },
+    {
+        "id": 37,
+        "image_name": "3146.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3146.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3146.bmp",
+        "text_content": "正 月 盡 三 月 積 三 月 奉 用 錢 六 千"
+    },
+    {
+        "id": 38,
+        "image_name": "6031.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6031.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6031.bmp",
+        "text_content": "第 四 𨼾 卒 朱 宣"
+    },
+    {
+        "id": 39,
+        "image_name": "5815.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5815.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5815.bmp",
+        "text_content": "延 城 甲 溝 候 官 第 三 十 隧 長 上 造 范 尊 中 勞 十 月 十 桼 日 能 書 會 計 治 官 民 頗 知 律 令 文 年 三 十 二 歲 長 桼 尺 五 寸 應 令 居 延 陽 里 家 去 官 八 十 里 屬 延 城 部"
+    },
+    {
+        "id": 40,
+        "image_name": "1871.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1871.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1871.bmp",
+        "text_content": "二 石 一 斗 六 升 大 二 石 一 斗 六 升 大 □ 粟 石 六 斗 六 升 大 正 月"
+    },
+    {
+        "id": 41,
+        "image_name": "2916.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2916.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2916.bmp",
+        "text_content": "居 延"
+    },
+    {
+        "id": 42,
+        "image_name": "4618.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4618.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4618.bmp",
+        "text_content": "初 元 年 五 月 初 居"
+    },
+    {
+        "id": 43,
+        "image_name": "4889.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4889.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4889.bmp",
+        "text_content": "載 積 薪 卒 五 人 省 作 候 官 二 人 受 閣 二 人 稟 廿 三 隧"
+    },
+    {
+        "id": 44,
+        "image_name": "2313.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2313.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2313.bmp",
+        "text_content": "臨 桐 隧 䖟 矢 卌"
+    },
+    {
+        "id": 45,
+        "image_name": "2689.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2689.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2689.bmp",
+        "text_content": "敞 尉 史 遷"
+    },
+    {
+        "id": 46,
+        "image_name": "4012.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4012.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4012.bmp",
+        "text_content": "□ 得 至 今 衰 叩 頭 死 罪"
+    },
+    {
+        "id": 47,
+        "image_name": "7309.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7309.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7309.bmp",
+        "text_content": "□ □ □ □ 氣 輕 □ 方 補 諸 與 澤 舄 門 冬 凡 四 物 各 □ □"
+    },
+    {
+        "id": 48,
+        "image_name": "2732.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2732.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2732.bmp",
+        "text_content": "十 一 月 奉 錢 六 百"
+    },
+    {
+        "id": 49,
+        "image_name": "1761.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1761.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1761.bmp",
+        "text_content": "始 建 國 三 年 五 月 城 北 𨼾 長 徐 □"
+    },
+    {
+        "id": 50,
+        "image_name": "5697.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5697.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5697.bmp",
+        "text_content": "六 斗 六 升 大 三 堠 □ 長 □"
+    },
+    {
+        "id": 51,
+        "image_name": "5515.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5515.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5515.bmp",
+        "text_content": "謁 言 官 敢 □ 之"
+    },
+    {
+        "id": 52,
+        "image_name": "7294.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7294.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7294.bmp",
+        "text_content": "胡 隧 卒 累 山 里 業 良"
+    },
+    {
+        "id": 53,
+        "image_name": "5716.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5716.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5716.bmp",
+        "text_content": "誼 十 二 月 甲 戌 盡 癸 卯 積 卅 日 迹 從 第 四 隧 南 界 盡 史 誼"
+    },
+    {
+        "id": 54,
+        "image_name": "2023.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2023.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2023.bmp",
+        "text_content": "頭 白 記 門 下 □"
+    },
+    {
+        "id": 55,
+        "image_name": "2442.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2442.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2442.bmp",
+        "text_content": "臨 桐 𨼾 稾 矢 百"
+    },
+    {
+        "id": 56,
+        "image_name": "6721.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6721.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6721.bmp",
+        "text_content": "塞 尉 詡 候 長 普 候 史"
+    },
+    {
+        "id": 57,
+        "image_name": "6927.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6927.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6927.bmp",
+        "text_content": "得 所 爲 娶 妻"
+    },
+    {
+        "id": 58,
+        "image_name": "6827.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6827.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6827.bmp",
+        "text_content": "斗 粟 □ □ □ □ 候 季 一 石 大 麥 凡 四 石 八 斗 □ 四 石 三"
+    },
+    {
+        "id": 59,
+        "image_name": "6859.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6859.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6859.bmp",
+        "text_content": "□ 枚 八 錢 直 千 二 百 一 十 六"
+    },
+    {
+        "id": 60,
+        "image_name": "3288.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3288.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3288.bmp",
+        "text_content": "卿 問 毋 □ 往 □ 賜 它 急 叩 頭 白"
+    },
+    {
+        "id": 61,
+        "image_name": "4388.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4388.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4388.bmp",
+        "text_content": "□ □ □ 月 己 卯 候 史 光 以 來 平 旦"
+    },
+    {
+        "id": 62,
+        "image_name": "7864.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7864.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7864.bmp",
+        "text_content": "□ 二 月 丁 酉 孤 山 候 □"
+    },
+    {
+        "id": 63,
+        "image_name": "2647.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2647.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2647.bmp",
+        "text_content": "□ □ 卒 華 忠 席 高 沙 卒 柳 參 □"
+    },
+    {
+        "id": 64,
+        "image_name": "2980.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2980.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2980.bmp",
+        "text_content": "察 非 思 愚 小 人 數 施 厚 恩 不 宜"
+    },
+    {
+        "id": 65,
+        "image_name": "3498.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3498.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3498.bmp",
+        "text_content": "塞 尉 元 告 尉 施 刑 郭 旨"
+    },
+    {
+        "id": 66,
+        "image_name": "5009.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5009.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5009.bmp",
+        "text_content": "逆 胡 卒 田 光 錢 百 廿 畢"
+    },
+    {
+        "id": 67,
+        "image_name": "2144.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2144.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2144.bmp",
+        "text_content": "盡 八 月 二 日 積 十 日"
+    },
+    {
+        "id": 68,
+        "image_name": "5668.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5668.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5668.bmp",
+        "text_content": "車 父 莊 亭 七 十 二 孫 平 二"
+    },
+    {
+        "id": 69,
+        "image_name": "5582.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5582.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5582.bmp",
+        "text_content": "毋 傷 隧 長 徐 霸 界 中 二 十 五 里 人 當 行 二 時 五 分 □"
+    },
+    {
+        "id": 70,
+        "image_name": "3489.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3489.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3489.bmp",
+        "text_content": "第 卅 七 隧 戌 卒 魏 □"
+    },
+    {
+        "id": 71,
+        "image_name": "4128.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4128.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4128.bmp",
+        "text_content": "戍 卒 南 陽 郡 涅 陽 邑 東 城 里 公 乘 何 鎮 年 廿 四 河 平 四 年 七 月 甲 戌 渡 河"
+    },
+    {
+        "id": 72,
+        "image_name": "5555.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5555.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5555.bmp",
+        "text_content": "□ 直 之"
+    },
+    {
+        "id": 73,
+        "image_name": "2476.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2476.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2476.bmp",
+        "text_content": "時 粟 五 十 斛 三 斗 二 升 五 合"
+    },
+    {
+        "id": 74,
+        "image_name": "7762.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7762.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7762.bmp",
+        "text_content": "萬 年 隧 卒 雷 隆 不 □"
+    },
+    {
+        "id": 75,
+        "image_name": "1075.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1075.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1075.bmp",
+        "text_content": "□ 宮 武 等"
+    },
+    {
+        "id": 76,
+        "image_name": "1775.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1775.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1775.bmp",
+        "text_content": "已 戊 未 子 破"
+    },
+    {
+        "id": 77,
+        "image_name": "5065.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5065.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5065.bmp",
+        "text_content": "□ □ □ □ □ 與 市 移 □ 部 九 隧 癸 未 出 吏 武 賢 劾 送 方 □ □ □ □"
+    },
+    {
+        "id": 78,
+        "image_name": "866.bmp",
+        "raw_path": "data/gallery_samples\\raw\\866.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\866.bmp",
+        "text_content": "三 十 五"
+    },
+    {
+        "id": 79,
+        "image_name": "6143.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6143.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6143.bmp",
+        "text_content": "甲 渠 候"
+    },
+    {
+        "id": 80,
+        "image_name": "7359.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7359.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7359.bmp",
+        "text_content": "言 何 罪 耐 司 □ 渠 候 官 戍 卒 □"
+    },
+    {
+        "id": 81,
+        "image_name": "7504.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7504.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7504.bmp",
+        "text_content": "年 九 月 九 日 甲 渠 第 四 隧 長 居 延 平 明 里 王 長"
+    },
+    {
+        "id": 82,
+        "image_name": "2040.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2040.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2040.bmp",
+        "text_content": "年 五 月"
+    },
+    {
+        "id": 83,
+        "image_name": "6462.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6462.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6462.bmp",
+        "text_content": "第 十 𨼾 卒 郭 有 四 月 食 三 石 三 斗 三 升 少"
+    },
+    {
+        "id": 84,
+        "image_name": "1167.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1167.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1167.bmp",
+        "text_content": "察 微 𨼾 長 彭 詡"
+    },
+    {
+        "id": 85,
+        "image_name": "3034.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3034.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3034.bmp",
+        "text_content": "卅 井"
+    },
+    {
+        "id": 86,
+        "image_name": "4060.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4060.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4060.bmp",
+        "text_content": "買 𨼾 卒 莊 護 皁 襦 一 領 直 九 百"
+    },
+    {
+        "id": 87,
+        "image_name": "266.bmp",
+        "raw_path": "data/gallery_samples\\raw\\266.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\266.bmp",
+        "text_content": "受 符 丁 卯 到 官 敢 言 之"
+    },
+    {
+        "id": 88,
+        "image_name": "305.bmp",
+        "raw_path": "data/gallery_samples\\raw\\305.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\305.bmp",
+        "text_content": "錢 百 廿 十 二 月 庚 申 婦 母 佳 君 取"
+    },
+    {
+        "id": 89,
+        "image_name": "4868.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4868.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4868.bmp",
+        "text_content": "□ 承 弩 八 完 靳 幡 四 完"
+    },
+    {
+        "id": 90,
+        "image_name": "4294.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4294.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4294.bmp",
+        "text_content": "各 財 置 員 醫 更 之"
+    },
+    {
+        "id": 91,
+        "image_name": "3932.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3932.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3932.bmp",
+        "text_content": "其 減 罪 一 等 當 安 世 以 重 罪 完 爲 城 旦 制 曰 以 贖 論 神"
+    },
+    {
+        "id": 92,
+        "image_name": "3622.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3622.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3622.bmp",
+        "text_content": "渠 官"
+    },
+    {
+        "id": 93,
+        "image_name": "6261.bmp",
+        "raw_path": "data/gallery_samples\\raw\\6261.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\6261.bmp",
+        "text_content": "食 三 斛 卩"
+    },
+    {
+        "id": 94,
+        "image_name": "1421.bmp",
+        "raw_path": "data/gallery_samples\\raw\\1421.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\1421.bmp",
+        "text_content": "候 長 充"
+    },
+    {
+        "id": 95,
+        "image_name": "5349.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5349.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5349.bmp",
+        "text_content": "當 遂 里 □ □ 年 卅 五 □ □ 廣 地 □"
+    },
+    {
+        "id": 96,
+        "image_name": "5979.bmp",
+        "raw_path": "data/gallery_samples\\raw\\5979.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\5979.bmp",
+        "text_content": "□ 𨼾 長 武 將 卒 詣 官 稟 坐 爲 部 候 長 所 苦 毒 今 白 謹 問 武 叩 頭 死 罪 對 曰 誠 食 乏 私 歸 取 食 案 武 知 從 事 行 塞 私 去 署 毋 狀 □ 致 白"
+    },
+    {
+        "id": 97,
+        "image_name": "7353.bmp",
+        "raw_path": "data/gallery_samples\\raw\\7353.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\7353.bmp",
+        "text_content": "□ 東 郭 章 丿 □"
+    },
+    {
+        "id": 98,
+        "image_name": "4746.bmp",
+        "raw_path": "data/gallery_samples\\raw\\4746.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\4746.bmp",
+        "text_content": "甘 露 三 年 戍 卒 行 道 貰 賣 衣 財 物 名 籍"
+    },
+    {
+        "id": 99,
+        "image_name": "2109.bmp",
+        "raw_path": "data/gallery_samples\\raw\\2109.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\2109.bmp",
+        "text_content": "安 樂 里 牛 常 卩"
+    },
+    {
+        "id": 100,
+        "image_name": "3726.bmp",
+        "raw_path": "data/gallery_samples\\raw\\3726.bmp",
+        "annotated_path": "data/gallery_samples\\annotated\\3726.bmp",
+        "text_content": "吏 吏 今 少 今 牛 少"
+    }
+]

@@ -1,0 +1,33 @@
+# ==========================================
+# 简牍文字识别系统 (Jiandu OCR System) 依赖清单
+# ==========================================
+
+# 1. 核心深度学习框架 (分类模型基础)
+# 注意: 如果你使用NVIDIA显卡(GPU)进行训练，建议注释掉下面这两行，
+# 去 PyTorch 官网 (https://pytorch.org/) 复制专属的 conda/pip 命令安装带有 CUDA 版本的 PyTorch。
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# 2. 目标检测算法库
+ultralytics>=8.0.0  # YOLOv8 官方库，会自动安装很多依赖包
+
+# 3. 图像分类模型库 (可选，如果你想用除了 torchvision 内置之外的更多 ViT/ResNet 变体)
+timm>=0.9.0         # PyTorch Image Models (提供非常全的预训练模型)
+
+# 4. 图像处理与矩阵计算 (数据预处理与转换)
+opencv-python>=4.8.0 # cv2，用于图像读写、画框、CLAHE图像增强等
+numpy>=1.23.0        # 基础科学计算
+pandas>=2.0.0        # 用于处理读取 Excel/CSV 映射表和统计数据
+Pillow>=9.5.0        # PIL图像处理库
+
+# 5. 可视化与实验分析
+matplotlib>=3.7.0    # 用于绘制 Loss 曲线、准确率折线图等
+seaborn>=0.12.0      # 建立在 matplotlib 之上，画混淆矩阵非常好看
+
+# 6. Web 后端开发 (系统交付阶段)
+# 考虑到你需要构建 API 和简单网页，这里包含了 FastAPI 和 Flask 的核心库
+Flask>=3.0.0         # 经典的 Web 框架
+fastapi>=0.100.0     # 现代、高性能的 Web 框架 (推荐用于深度学习模型部署)
+uvicorn[standard]>=0.23.0 # FastAPI 的运行服务器
+python-multipart>=0.0.6   # FastAPI 接收前端上传图片(文件)所需的依赖
+streamlit  # streamlit 开发
