@@ -11,6 +11,11 @@ import time
 from datetime import datetime
 import plotly.express as px
 
+# 尝试在后台启动 Flask
+if "backend_started" not in st.session_state:
+    subprocess.Popen(["python", "app.py"])
+    st.session_state.backend_started = True
+    time.sleep(5) # 给 Flask 一点启动时间
 
 # ========== 配置 ==========
 API_URL = "http://127.0.0.1:7000/predict"
