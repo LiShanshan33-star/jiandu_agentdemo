@@ -4,5 +4,7 @@
 我们的项目已经部署至streamlit社区：https://jianduagentdemo-aqx8h2aw6bjbzzfwml6zej.streamlit.app/
 
 下载使用方式：
+
 1.python运行 app.py
-2.streamlit run home.py
+
+2.终端输入：streamlit run home.py
